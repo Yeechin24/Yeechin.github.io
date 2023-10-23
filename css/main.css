@@ -1,0 +1,65 @@
+.ntua_kitchen_gray {
+  background-color: #474747;
+  padding: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.ntua_kitchen_gray li {
+  display: inline-block;
+}
+.ntua_kitchen_gray p {
+  color: #ffffff;
+}
+.ntua_kitchen_gray span {
+  padding-left: 50px;
+}
+.ntua_kitchen_gray ul {
+  text-align: right;
+}
+
+.ntua_kitchen_gray svg {
+  width: 20px;
+  height: 20px;
+  background-color: #7c7c7c;
+  border-radius: 50% 50% 50% 50%;
+}
+
+.material-symbols-outlined {
+  color: #ffffff;
+}
+.ntua_kitchen_white {
+  background-color: #ffffff;
+  padding: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: right;
+}
+.ntua_kitchen_white ul {
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: middle;
+  width: 500px;
+  text-align: right;
+}
+.ntua_kitchen_white li {
+  display: inline-block;
+}
+
+.ntua_kitchen_white a {
+  color: #474747;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.ntua_kitchen_white li :hover {
+  color: #474747;
+  text-decoration: none;
+  background-color: #c7c7c7;
+  border-radius: 30% 30% 30% 30%;
+}
+
+.ntua_kitchen_white button {
+  border-radius: 30% 30% 30% 30%;
+  background-color: #ffffff;
+}
